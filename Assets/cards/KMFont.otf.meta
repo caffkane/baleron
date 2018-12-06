@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7fa88e68ccfbb4e8fa6c79d2b8c30109
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixeled English Font
+  fontNames:
+  - KMFont
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cf600b32f198549e38ce86fbd9b63aa2, type: 3}
+  - {fileID: 12800000, guid: d8fced7b8008ae94993b6e031d41303d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
